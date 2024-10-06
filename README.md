@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Unity**
+🎮 I’m currently working on **Unity**
 
 💬 Ask me about **C#, Unity... or anything [here](https://github.com/batuhanckmkc/batuhanckmkc/issues)**
 
