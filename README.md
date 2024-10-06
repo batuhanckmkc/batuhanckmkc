@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **Unity**
 
-💬 Ask me about ** C#, Unity... or anything [here](https://github.com/batuhanckmkc/batuhanckmkc/issues)**
+💬 Ask me about **C#, Unity... or anything [here](https://github.com/batuhanckmkc/batuhanckmkc/issues)**
 
  </div>
  
