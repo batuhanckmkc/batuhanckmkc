@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Batuhan Çakmakçıoğlu</h1>
 <h3 align="center">🎮 I'm a game developer who is currently working with the Unity game engine. I love creating tools to streamline development and solve common issues in game projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanckmkc&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanckmkc" /> </p>
 
 - 💬 Ask me about **Unity, C#**
 
